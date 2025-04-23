@@ -1,2 +1,2 @@
-# Lampa
-Lampa width JS
+# Lampa1
+Lampa width1 JS
